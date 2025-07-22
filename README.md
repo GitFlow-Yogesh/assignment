@@ -92,20 +92,6 @@ Sample Response:
 }
 
 
-Testing
-
-Make sure tests are run from the root directory.
-
- Windows:
-```powershell
-$env:PYTHONPATH="."
-pytest
-```
-
-Mac/Linux:
-```bash
-PYTHONPATH=. pytest
-```
 
  Expected Output:
 ```
