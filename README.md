@@ -93,7 +93,7 @@ Sample Response:
 
 
 
- Expected Output:
+Expected Output:
 ```
 6 passed
 ```
